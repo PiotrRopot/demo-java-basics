@@ -1,6 +1,5 @@
 package by.itacademy.piotrropot.javabasics;
 
-
 public class CommandLineParams {
 
     public static void main(String[] args) {
@@ -9,4 +8,3 @@ public class CommandLineParams {
         }
     }
 }
-

@@ -8,5 +8,3 @@ public class Circle {
         System.out.println("Площадь круга равна: " + result);
     }
 }
-
-

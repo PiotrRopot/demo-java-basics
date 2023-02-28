@@ -12,7 +12,7 @@ public class Calculator {
         System.out.println("Введите математическое действие: ");
         String symbol = scanner.next();
         scanner.close();
-        if (symbol.equals("+"))  {
+        if (symbol.equals("+")) {
             System.out.print("ИТОГ: ");
             System.out.println(numberOne + numberTwo);
         }
@@ -30,5 +30,3 @@ public class Calculator {
         }
     }
 }
-
-
